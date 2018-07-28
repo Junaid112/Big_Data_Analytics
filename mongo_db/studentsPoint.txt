@@ -1,0 +1,56 @@
+db.studentsPoint.insert({
+	name:{
+		firstName: "Alan",
+		lastName:"Joe"
+	},
+	courses: ["Java","Perl","xml"],
+	marks: [20,20,0]
+}),
+db.studentsPoint.insert({
+	name:{
+		firstName: "Martin",
+		lastName:"Genberg"
+	},
+	courses: ["JavaScript","Python", "R"],
+	marks: [15,18,5]
+}),
+db.studentsPoint.insert({
+	name:{
+		firstName: "Athur",
+		lastName:"Watson"
+	},
+	courses: ["C#","C++", "PHP"],
+	marks: [17,17,9]
+}),
+db.studentsPoint.insert({
+	name:{
+		firstName: "Anabelle",
+		lastName:"Sanberg"
+	},
+	courses: ["R","python", "Matlab"],
+	marks: [19,19,0]
+}),
+db.studentsPoint.insert({
+	name:{
+		firstName: "Kira",
+		lastName:"Schommer"
+	},
+	courses: ["python","Java","HTML"],
+	marks: [20,20,20]
+}),
+db.studentsPoint.insert({
+	name:{
+		firstName: "Christian",
+		lastName:"Kiriam"
+	},
+	courses: ["Python","C++","JavaScript"],
+	marks: [0,20,15]
+})
+db.studentsPoint.insert({
+	name:{
+		firstName: "Karimi",
+		lastName:"Schilriam"
+	},
+	courses: ["Python","C++","JavaScript"],
+	marks: [20,20,20]
+})
